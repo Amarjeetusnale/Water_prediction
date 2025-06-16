@@ -1,1 +1,1 @@
-﻿# Water_prediction project Green Skill
+﻿# Water_Quality_prediction project Green Skill
